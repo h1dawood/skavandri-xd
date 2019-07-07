@@ -1,0 +1,26 @@
+{
+
+"ping": {
+  "name":"owner",
+  "type": "role",
+  "price":"50000",
+  "desc": "buy owner role"
+},
+  
+  "helper": {
+  "name":"owner",
+  "type": "command",
+   "price":"50000",
+  "desc": "buy owner role"
+},
+  
+  
+  "discord nitro": {
+  "name": "discord nitro",
+    "type": "command",
+      "price": "500000",
+        "desc": "buy discord nitro"
+  }
+  
+  
+}
