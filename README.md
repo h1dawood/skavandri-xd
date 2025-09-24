@@ -1,9 +1,3 @@
-Of course! Here is a comprehensive `README.md` file for your GitHub repository based on the provided code. It includes a title, description, feature list, setup instructions, and usage examples.
-
-You can copy and paste the content below into a new file named `README.md` in your project's root directory.
-
----
-
 # Multi-Purpose Discord Bot
 
 A versatile Discord bot built with Node.js and Discord.js, packed with a wide range of features including administration, moderation, fun commands, an economy system, and automated role management.
