@@ -1,4 +1,5 @@
 # Multi-Purpose Discord Bot
+![Project Views](https://h1dawood.com/github/view_counter.php?project=skavandri-xd&label=views&color=blue&labelColor=555&logo=eye)
 
 A versatile Discord bot built with Node.js and Discord.js, packed with a wide range of features including administration, moderation, fun commands, an economy system, and automated role management.
 
