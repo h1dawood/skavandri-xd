@@ -62,7 +62,7 @@ Follow these steps to get your bot up and running.
 
 **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/h1dawood/skavandri-xd.git
 cd your-repo-name
 ```
 
